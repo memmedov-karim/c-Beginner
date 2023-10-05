@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\integersArray\bin\Debug\integersArray.exe.config
+C:\Users\user\Desktop\C#\integersArray\bin\Debug\integersArray.exe
+C:\Users\user\Desktop\C#\integersArray\bin\Debug\integersArray.pdb
+C:\Users\user\Desktop\C#\integersArray\obj\Debug\integersArray.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\integersArray\obj\Debug\integersArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\integersArray\obj\Debug\integersArray.exe
+C:\Users\user\Desktop\C#\integersArray\obj\Debug\integersArray.pdb

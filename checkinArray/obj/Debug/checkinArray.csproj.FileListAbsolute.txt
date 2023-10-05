@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#\checkinArray\bin\Debug\checkinArray.exe.config
+C:\Users\user\Desktop\C#\checkinArray\bin\Debug\checkinArray.exe
+C:\Users\user\Desktop\C#\checkinArray\bin\Debug\checkinArray.pdb
+C:\Users\user\Desktop\C#\checkinArray\obj\Debug\checkinArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\checkinArray\obj\Debug\checkinArray.exe
+C:\Users\user\Desktop\C#\checkinArray\obj\Debug\checkinArray.pdb

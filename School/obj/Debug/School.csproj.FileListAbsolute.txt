@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\School\bin\Debug\School.exe.config
+C:\Users\user\Desktop\C#\School\bin\Debug\School.exe
+C:\Users\user\Desktop\C#\School\bin\Debug\School.pdb
+C:\Users\user\Desktop\C#\School\obj\Debug\School.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\School\obj\Debug\School.exe
+C:\Users\user\Desktop\C#\School\obj\Debug\School.pdb
